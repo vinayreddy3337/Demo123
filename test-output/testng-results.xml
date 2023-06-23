@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-05T01:18:52 IST" name="All Test Suite" finished-at="2022-11-05T01:20:51 IST" duration-ms="118780">
+    <groups>
+    </groups>
+    <test started-at="2022-11-05T01:18:52 IST" name="E:/Intelij/Automation Framework" finished-at="2022-11-05T01:20:51 IST" duration-ms="118780">
+      <class name="PageTestPackage.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:PageTestPackage.HomePageTest@e50a6f6]" started-at="2022-11-05T01:18:52 IST" name="setup" finished-at="2022-11-05T01:19:04 IST" duration-ms="11979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Testlogo()[pri:0, instance:PageTestPackage.HomePageTest@e50a6f6]" started-at="2022-11-05T01:19:04 IST" name="Testlogo" finished-at="2022-11-05T01:19:04 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testlogo -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:PageTestPackage.HomePageTest@e50a6f6]" started-at="2022-11-05T01:19:04 IST" name="Teardown" finished-at="2022-11-05T01:19:05 IST" duration-ms="381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PageTestPackage.HomePageTest@e50a6f6]" started-at="2022-11-05T01:19:05 IST" name="setup" finished-at="2022-11-05T01:19:18 IST" duration-ms="12948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestFreestudent()[pri:0, instance:PageTestPackage.HomePageTest@e50a6f6]" started-at="2022-11-05T01:19:18 IST" name="TestFreestudent" finished-at="2022-11-05T01:19:18 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFreestudent -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:PageTestPackage.HomePageTest@e50a6f6]" started-at="2022-11-05T01:19:18 IST" name="Teardown" finished-at="2022-11-05T01:19:18 IST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PageTestPackage.HomePageTest@e50a6f6]" started-at="2022-11-05T01:19:18 IST" name="setup" finished-at="2022-11-05T01:19:36 IST" duration-ms="17870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogin()[pri:0, instance:PageTestPackage.HomePageTest@e50a6f6]" started-at="2022-11-05T01:19:36 IST" name="verifylogin" finished-at="2022-11-05T01:19:38 IST" duration-ms="2139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:PageTestPackage.HomePageTest@e50a6f6]" started-at="2022-11-05T01:19:38 IST" name="Teardown" finished-at="2022-11-05T01:19:38 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- PageTestPackage.HomePageTest -->
+      <class name="PageTestPackage.LoginPageDDT">
+        <test-method is-config="true" signature="setup()[pri:0, instance:PageTestPackage.LoginPageDDT@fdefd3f]" started-at="2022-11-05T01:20:09 IST" name="setup" finished-at="2022-11-05T01:20:26 IST" duration-ms="17327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginddt(java.lang.String,java.lang.String)[pri:0, instance:PageTestPackage.LoginPageDDT@fdefd3f]" started-at="2022-11-05T01:20:26 IST" name="loginddt" data-provider="logindata" finished-at="2022-11-05T01:20:27 IST" duration-ms="320" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Srikantheslavath]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Innovapath]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginddt -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PageTestPackage.LoginPageDDT@fdefd3f]" started-at="2022-11-05T01:20:27 IST" name="setup" finished-at="2022-11-05T01:20:37 IST" duration-ms="9848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:PageTestPackage.LoginPageDDT@fdefd3f]" started-at="2022-11-05T01:20:27 IST" name="Teardown" finished-at="2022-11-05T01:20:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method signature="loginddt(java.lang.String,java.lang.String)[pri:0, instance:PageTestPackage.LoginPageDDT@fdefd3f]" started-at="2022-11-05T01:20:37 IST" name="loginddt" data-provider="logindata" finished-at="2022-11-05T01:20:37 IST" duration-ms="364" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vinay ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[djnfjsnfj22e33]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginddt -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:PageTestPackage.LoginPageDDT@fdefd3f]" started-at="2022-11-05T01:20:37 IST" name="Teardown" finished-at="2022-11-05T01:20:37 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- PageTestPackage.LoginPageDDT -->
+      <class name="PageTestPackage.LandingPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:PageTestPackage.LandingPageTest@3bd40a57]" started-at="2022-11-05T01:19:38 IST" name="setup" finished-at="2022-11-05T01:19:52 IST" duration-ms="13869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestWbl()[pri:0, instance:PageTestPackage.LandingPageTest@3bd40a57]" started-at="2022-11-05T01:19:52 IST" name="TestWbl" finished-at="2022-11-05T01:19:52 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestWbl -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:PageTestPackage.LandingPageTest@3bd40a57]" started-at="2022-11-05T01:19:52 IST" name="tearDown" finished-at="2022-11-05T01:19:53 IST" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PageTestPackage.LandingPageTest@3bd40a57]" started-at="2022-11-05T01:19:53 IST" name="setup" finished-at="2022-11-05T01:20:07 IST" duration-ms="13873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestMailID()[pri:0, instance:PageTestPackage.LandingPageTest@3bd40a57]" started-at="2022-11-05T01:20:07 IST" name="TestMailID" finished-at="2022-11-05T01:20:07 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMailID -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:PageTestPackage.LandingPageTest@3bd40a57]" started-at="2022-11-05T01:20:07 IST" name="tearDown" finished-at="2022-11-05T01:20:07 IST" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- PageTestPackage.LandingPageTest -->
+      <class name="PageTestPackage.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:PageTestPackage.LoginPageTest@d83da2e]" started-at="2022-11-05T01:20:37 IST" name="setup" finished-at="2022-11-05T01:20:50 IST" duration-ms="13295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Testlogin()[pri:0, instance:PageTestPackage.LoginPageTest@d83da2e]" started-at="2022-11-05T01:20:50 IST" name="Testlogin" finished-at="2022-11-05T01:20:51 IST" duration-ms="610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testlogin -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:PageTestPackage.LoginPageTest@d83da2e]" started-at="2022-11-05T01:20:51 IST" name="Teardown" finished-at="2022-11-05T01:20:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- PageTestPackage.LoginPageTest -->
+    </test> <!-- E:/Intelij/Automation Framework -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

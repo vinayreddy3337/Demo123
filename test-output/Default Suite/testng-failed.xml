@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Automation Framework(failed)">
+    <classes>
+      <class name="PageTestPackage.HomePageTest">
+        <methods>
+          <include name="verifylogin"/>
+          <include name="TestFreestudent"/>
+          <include name="Teardown"/>
+          <include name="Testlogo"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- PageTestPackage.HomePageTest -->
+    </classes>
+  </test> <!-- Automation Framework(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
